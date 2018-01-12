@@ -1,2 +1,2 @@
 # lldb
-**lldb python scripts**
+`lldb python scripts`
